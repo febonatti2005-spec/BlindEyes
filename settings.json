@@ -1,0 +1,19 @@
+{
+  "port": "/dev/cu.usbserial-110",
+  "baud": 115200,
+  "tx_mac": "1a:00:00:00:00:00",
+  "filter_mac": true,
+  "room_w": 5.7,
+  "room_h": 3.4,
+  "tx_pos": [
+    1.0,
+    2.8
+  ],
+  "rx_pos": [
+    4.7,
+    0.6
+  ],
+  "conf_threshold": 0.6,
+  "notifications": true,
+  "notif_cooldown": 30
+}
