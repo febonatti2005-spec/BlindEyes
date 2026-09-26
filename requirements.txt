@@ -1,0 +1,13 @@
+# BlindEyes — dipendenze Python
+#
+# Versioni con cui l'applicazione e' sviluppata e verificata, su Python 3.11.
+# Il vincolo e' un minimo, non un blocco: versioni successive vanno bene.
+#
+#   pip install -r requirements.txt
+
+PyQt6>=6.11.0          # interfaccia
+numpy>=2.4.4           # elaborazione del segnale CSI
+matplotlib>=3.10.8     # grafici e mappa radio
+scikit-learn>=1.8.0    # Random Forest, scaler, cross-validation
+joblib>=1.5.3          # salvataggio e caricamento del modello
+pyserial>=3.5          # lettura del ricevitore ESP32 via USB

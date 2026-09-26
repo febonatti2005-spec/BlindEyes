@@ -117,7 +117,7 @@ Dopo il flash, **lascia il RX collegato via USB** al Mac — è l'unico collegam
 Richiede **Python 3.11** (consigliato via Homebrew su macOS).
 
 ```bash
-pip install PyQt6 numpy matplotlib scikit-learn joblib pyserial
+pip install -r requirements.txt
 ```
 
 ### Avvio
