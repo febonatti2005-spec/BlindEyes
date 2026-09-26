@@ -469,3 +469,14 @@ rispetto a cui viene misurato il delta, e senza di essa quella distinzione
 ## Crediti firmware
 
 Il firmware ESP-CSI è sviluppato da **Espressif Systems**: https://github.com/espressif/esp-csi
+
+---
+
+## Licenza
+
+[MIT](LICENSE) — puoi usare, modificare e ridistribuire questo codice, anche
+in progetti commerciali, mantenendo l'avviso di copyright.
+
+La licenza copre la dashboard. Il firmware **ESP-CSI** è di Espressif Systems
+ed è distribuito con la propria licenza.
+
