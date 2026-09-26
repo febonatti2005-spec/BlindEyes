@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .DS_Store
 data/
+
+# Modello addestrato: e' la firma radio di una stanza specifica e va
+# rigenerato in loco. Il training guidato dura 6 minuti.
+*.pkl
+csi_features.json
